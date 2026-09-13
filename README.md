@@ -16,3 +16,7 @@ This repository is for focused contributions that are useful outside a single pr
 ## Quality bar
 
 Prefer readable code, explicit assumptions, and examples that someone else can run or understand without additional context.
+
+## Review checklist
+
+Before publishing an example, check that the README explains its purpose, setup requirements are explicit, commands are copy-pasteable, and any expected output is described. Remove environment-specific paths and credentials from examples.
