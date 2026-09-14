@@ -20,3 +20,7 @@ Prefer readable code, explicit assumptions, and examples that someone else can r
 ## Review checklist
 
 Before publishing an example, check that the README explains its purpose, setup requirements are explicit, commands are copy-pasteable, and any expected output is described. Remove environment-specific paths and credentials from examples.
+
+## Reusable-example checklist
+
+For examples intended for reuse, also state supported runtime versions, identify required environment variables without exposing their values, and include a small expected-output example when practical.
